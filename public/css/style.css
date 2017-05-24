@@ -1,4 +1,12 @@
 body {
   background-color: black;
   color: white;
-{
+}
+a:active {
+  color: lightblue;
+  text-decoration: bold;
+}
+a:visited {
+  color: lightblue;
+  text-decoration: bold;
+}

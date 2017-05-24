@@ -1,4 +1,11 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
 body {
-  background-color: black;
+  background-color: #393E43;
   color: white;
-{
+}
+a {
+  color: thistle;
+  text-decoration: none;
+}

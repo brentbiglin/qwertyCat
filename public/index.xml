@@ -6,10 +6,19 @@
     <description>Recent content on QwertyCat Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 16:13:29 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 17:34:46 -0600</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/portfolio/</link>
+      <pubDate>Tue, 23 May 2017 17:34:46 -0600</pubDate>
+      
+      <guid>http://example.org/portfolio/</guid>
+      <description> BLAH BLAH BLAH  </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 23 May 2017 16:13:29 -0600</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</description>
+      <description> Eric Graham Molly McGee Elizabeth Fletcher Kathryn Golden Kristen Graham Brent Biglin  </description>
     </item>
     
     <item>
