@@ -11,8 +11,8 @@ features = []
 min_version = "0.20.7"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Brent Biglin"
+  homepage = "http://biglin.io"
 
 # If porting an existing theme
 [original]
