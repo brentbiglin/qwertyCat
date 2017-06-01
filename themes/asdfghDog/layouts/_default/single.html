@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 {{ partial "header.html" . }}
-  <h1>{{ .Title }}</h1>
+{{ partial "nav.html" . }}
+<section>
   {{ .Content }}
+</section>
 {{ partial "footer.html" . -}}

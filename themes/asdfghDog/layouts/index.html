@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 {{ partial "header.html" . }}
-<h1>QwertyCat Consulting</h1>
-  <h2>Articles</h2>
-  {{- range first 10 .Data.Pages -}}
-    {{- if eq .Type "article"}}
-      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    {{- end }}
-  {{- end }}
-  <h2>Pages</h2>
-      <h4><a href="portfolio">Portfolio</a></h4>
-      <h4><a href="about">About</a></h4>
-      <h4><a href="contact">Contact</a></h4>
+\{{ partial "nav.html" . }}
+<h2>Congratulations! You made it.</h2>
 </body>
 </html>
