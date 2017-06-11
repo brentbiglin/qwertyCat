@@ -1,6 +1,9 @@
 +++
+type = "static"
 title = "Portfolio"
-
+description = "Portfolio for QwertyCat Consulting"
+menu = "main"
+weight = "1"
 +++
 
 Name something good, and we've done it.

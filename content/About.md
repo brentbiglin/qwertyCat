@@ -1,6 +1,9 @@
 +++
+type = "static"
 title = "About"
-
+description = "Information about QwertyCat Consulting"
+menu = "main"
+weight = "2"
 +++
 
 You're safe! We had feared the worst. When we heard about Alderaan, we were afraid that you were... We don't have time for our sorrows, Commander. The battle station has surely tracked us here. It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope. Yes. We are approaching the planet Yavin. The Rebel base is on a moon on the far side. We are preparing to orbit the planet.
