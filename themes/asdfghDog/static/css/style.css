@@ -1,13 +1,13 @@
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   position: relative;
   min-height: 100%;
 }
 body {
   background-color: white;
   color: black;
-  font-weight: 100;
   margin: 0 0 100px;
+  font-size: 18px;
 }
 .logo {
   position: absolute;
@@ -19,22 +19,27 @@ h1 {
   font-weight: 100;
   position: absolute;
   top: 10px;
-  left: 100px;
+  left: 50px;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
 }
 h2 {
   text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+  margin-top: 130px;
 }
 p {
   line-height: 28px;
 }
 a {
-  color: indigo;
+  color: black;
   text-decoration: none;
   font-weight: normal;
   transition: .3s;
+  border-bottom: 2px solid #54AC58;
 }
 a:hover {
-  text-shadow: 1px 0px indigo, 0px -1px indigo;
+  color: #54AC58;
 }
 nav {
   position: absolute;
@@ -53,6 +58,7 @@ li.nav-item {
   height: auto;
   font-size: 20px;
   text-align: right;
+  font-family: 'Playfair Display', sans-serif;
 }
 section {
   width: 700px;
@@ -109,7 +115,7 @@ footer {
   li { margin: 20px 50px; }
   nav { left: 40px; }
 }
-@media (min-width: 701px)
+@media (min-width: 801px)
   and (max-width: 1000px) {
     section { width: 450px; }
     nav {
@@ -138,10 +144,12 @@ footer {
     }
 }
 @media (min-width: 1px)
-  and (max-width: 700px) {
+  and (max-width: 800px) {
     h1 {
       top: 45px;
-      left: 89px;
+      left: 15px;
+      line-height: 36px;
+      text-align: center;
     }
     .logo {
       top: 35px;
@@ -163,13 +171,13 @@ footer {
     ul.nav {
       list-style-type: none;
       height: 50px;
-      width: 300px;
+      width: 250px;
       margin: auto;
     }
     li.nav-item {
       display: inline-block;
       font-weight: 100;
-      width: 50px;
+      width: 60px;
       height: auto;
       margin: auto 0px auto 20px;
       text-align: right;

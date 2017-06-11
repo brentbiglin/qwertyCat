@@ -2,6 +2,7 @@
 title = "About"
 
 +++
+
 You're safe! We had feared the worst. When we heard about Alderaan, we were afraid that you were... We don't have time for our sorrows, Commander. The battle station has surely tracked us here. It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope. Yes. We are approaching the planet Yavin. The Rebel base is on a moon on the far side. We are preparing to orbit the planet.
 
 Your friend is quite a mercenary. I wonder if he really cares about anything...or anyone. I care! So...what do you think of her, Han? I'm trying not to, kid! Good... Still, she's got a lot of spirit. I don't know, what do you think? Do you think a princess and a guy like me... No!
