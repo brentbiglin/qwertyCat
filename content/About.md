@@ -12,17 +12,17 @@ Your friend is quite a mercenary. I wonder if he really cares about anything...o
 
 General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope.
 <ul>
-  <li><img src="http://brentbiglin.github.io/public/images/eric.svg"><br>
+  <li><a href="http://erictgraham.com"><img src="http://brentbiglin.github.io/public/images/eric.svg"><br>
     <a href="http://erictgraham.com">Eric Graham</a><br>
     CEO & Producer</li>
     <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Molly McGee<br>
     Project & Account Manager</li>
-    <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br><a href="http://sites.utexas.edu/elizabethreadsandwrites/">Elizabeth Fletcher</a><br>
+    <li><a href="http://sites.utexas.edu/elizabethreadsandwrites/"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Elizabeth Fletcher</a><br>
     Content Strategist</li>
     <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kathryn Golden<br>
     UX & Market Researcher</li>
     <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kristen Graham<br>
     Graphic & Brand Designer</li>
-    <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br><a href="http://biglin.io">Brent Biglin</a><br>
+    <li><a href="http://biglin.io"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Brent Biglin</a><br>
     Designer & Developer</li>
 </ul>
