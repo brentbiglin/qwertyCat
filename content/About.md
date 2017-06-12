@@ -17,7 +17,7 @@ General Kenobi, years ago you served my father in the Clone Wars. Now he begs yo
     CEO & Producer</li>
     <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Molly McGee<br>
     Project & Account Manager</li>
-    <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Elizabeth Fletcher<br>
+    <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br><a href="http://sites.utexas.edu/elizabethreadsandwrites/">Elizabeth Fletcher</a><br>
     Content Strategist</li>
     <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kathryn Golden<br>
     UX & Market Researcher</li>
