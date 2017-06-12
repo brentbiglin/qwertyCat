@@ -17,7 +17,7 @@ h1 {
   font-family: 'Playfair Display', serif;
   font-size: 36px;
   padding: 15px;
-  background-color: #54AC58;
+  background-color: green;
   color: whitesmoke;
   border-radius: 5px
 }
@@ -34,10 +34,10 @@ a {
   text-decoration: none;
   font-weight: normal;
   transition: .3s;
-  border-bottom: 2px solid #54AC58;
+  border-bottom: 2px solid green;
 }
 a:hover {
-  color: #54AC58;
+  color: green;
 }
 nav {
   position: fixed;
