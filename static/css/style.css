@@ -112,14 +112,17 @@ footer {
 @media (min-width: 801px)
   and (max-width: 1000px) {
     h1 { top: 75px; }
-    h2 { margin-top: 180px; }
+    h2 {
+      margin-top: 180px;
+      font-size: 35px;
+    }
     body {
       font-size: 18px;
       line-height: 64px;
     }
     section {
       width: 800px;
-      font-size: 32px;
+      font-size: 30px;
       margin-top: 20px;
     }
     p {
@@ -161,16 +164,23 @@ footer {
     h1 {
       top: 45px;
       left: 15px;
-      line-height: 36px;
+      line-height: 40px;
       text-align: center;
+      font-size: 40px;
+      white-space: nowrap;
+      overflow: hidden;
+      height: 45px;
+    }
+    h2 {
+      font-size: 35px;
+      margin-top: 140px;
     }
     section {
       width: 400px;
-      margin-top: 20px;
-      font-size: 36px;
     }
     p {
       line-height: 42px;
+      font-size: 30px;
     }
     nav {
       position: absolute;
