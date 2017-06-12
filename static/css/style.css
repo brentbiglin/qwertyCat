@@ -122,9 +122,20 @@ footer {
   and (max-width: 1000px) {
     h1 {
       top: 75px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+      line-height: 40px;
+      text-align: center;
+      font-size: 40px;
+      white-space: nowrap;
+      overflow: hidden;
+      height: 45px;
+      left: auto;
+      position: relative;
     }
     h2 {
-      margin-top: 210px;
+      margin-top: 130px;
       font-size: 35px;
     }
     body {
@@ -142,18 +153,19 @@ footer {
     nav {
       position: absolute;
       display: inline;
-      right: 10px;
+      right: auto;
       left: auto;
       top: 0px;
       height: 75px;
       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
     ul.nav {
       list-style-type: none;
       height: 70px;
       width: 600px;
-      margin: 0px 0px auto auto;
-      right: 0px;
+      margin: 0px auto auto auto;
     }
     li.nav-item {
       display: inline-block;
@@ -174,17 +186,21 @@ footer {
   and (max-width: 800px) {
     h1 {
       top: 45px;
-      left: 15px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
       line-height: 40px;
       text-align: center;
       font-size: 40px;
       white-space: nowrap;
       overflow: hidden;
       height: 45px;
+      left: auto;
+      position: relative;
     }
     h2 {
       font-size: 35px;
-      margin-top: 165px;
+      margin-top: 100px;
     }
     section {
       width: 90%;
@@ -196,8 +212,6 @@ footer {
     nav {
       position: absolute;
       display: inline;
-      right: 10px;
-      left: auto;
       top: 0px;
       height: 65px;
       width: 100%;
@@ -206,8 +220,7 @@ footer {
       list-style-type: none;
       height: 70px;
       width: 400px;
-      margin: 0px 0px auto auto;
-      right: 0px;
+      margin: 0px auto auto auto;
     }
     li.nav-item {
       display: inline-block;
