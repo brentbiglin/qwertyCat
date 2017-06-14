@@ -13,7 +13,7 @@ Your friend is quite a mercenary. I wonder if he really cares about anything...o
 General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope.
 <ul>
   <li><a class="about-item" href="http://erictgraham.com">
-    <img src="http://brentbiglin.github.io/public/images/eric.svg"><br>Eric Graham</a><br> CEO & Producer</li>
+    <img src="http://brentbiglin.github.io/public/images/eric-graham.svg"><br>Eric Graham</a><br> CEO & Producer</li>
   <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Molly McGee<br>Project & Account Manager</li>
   <li><a class="about-item" href="http://sites.utexas.edu/elizabethreadsandwrites/"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Elizabeth Fletcher</a><br>Content Strategist</li>
   <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kathryn Golden<br>UX & Market Researcher</li>
