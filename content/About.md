@@ -14,7 +14,7 @@ General Kenobi, years ago you served my father in the Clone Wars. Now he begs yo
 <ul>
   <li><a class="about-item" href="http://erictgraham.com">
     <img src="http://brentbiglin.github.io/public/images/eric-graham.svg"><br>Eric Graham</a><br> CEO & Producer</li>
-  <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Molly McGee<br>Project & Account Manager</li>
+  <li><img src="http://brentbiglin.github.io/public/images/molly-mcgee.svg"><br>Molly McGee<br>Project & Account Manager</li>
   <li><a class="about-item" href="http://sites.utexas.edu/elizabethreadsandwrites/"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Elizabeth Fletcher</a><br>Content Strategist</li>
   <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kathryn Golden<br>UX & Market Researcher</li>
   <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kristen Graham<br>Graphic & Brand Designer</li>
