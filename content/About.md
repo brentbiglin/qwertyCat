@@ -12,11 +12,40 @@ Your friend is quite a mercenary. I wonder if he really cares about anything...o
 
 General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope.
 <ul>
-  <li><a class="about-item" href="http://erictgraham.com">
-    <img src="http://brentbiglin.github.io/public/images/eric-graham.svg"><br>Eric Graham</a><br> CEO & Producer</li>
-  <li><img src="http://brentbiglin.github.io/public/images/molly-mcgee.svg"><br>Molly McGee<br>Project & Account Manager</li>
-  <li><a class="about-item" href="http://sites.utexas.edu/elizabethreadsandwrites/"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Elizabeth Fletcher</a><br>Content Strategist</li>
-  <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kathryn Golden<br>UX & Market Researcher</li>
-  <li><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Kristen Graham<br>Graphic & Brand Designer</li>
-  <li><a class="about-item" href="http://biglin.io"><img src="https://icon.now.sh/tag_faces/64/54AC58"><br>Brent Biglin</a><br>Designer & Developer</li>
+  <li>
+    <a class="about-item" href="http://erictgraham.com">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/eric.svg">
+      <br>Eric Graham</a>
+      <br> CEO & Producer
+  </li>
+  <li>
+    <a class="about-item" href="http://mollykmcgee.com">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/molly.png">
+      <br>Molly McGee</a>
+      <br>Project & Account Manager
+  </li>
+  <li>
+    <a class="about-item" href="http://sites.utexas.edu/elizabethreadsandwrites/">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/elizabeth.png">
+      <br>Elizabeth Fletcher</a>
+      <br>Content Strategist
+  </li>
+  <li>
+    <a class="about-item" href="http://kathrynegolden.com">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/kate.png">
+      <br>Kathryn Golden</a>
+      <br>UX & Market Researcher
+  </li>
+  <li>
+    <a class="about-item" href="http://kristengraham.com">
+      <img class="profile" src="https://icon.now.sh/tag_faces/64/54AC58">
+      <br>Kristen Graham</a>
+      <br>Graphic & Brand Designer
+  </li>
+  <li>
+    <a class="about-item" href="http://biglin.io">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/brent.png">
+      <br>Brent Biglin</a>
+      <br>Designer & Developer
+  </li>
 </ul>

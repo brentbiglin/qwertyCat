@@ -65,6 +65,10 @@ li.nav-item {
 .about-item {
   border-bottom: none;
 }
+.profile {
+  width: 150px;
+  height: 150px;
+}
 section {
   width: 700px;
   margin-left: auto;
