@@ -19,7 +19,7 @@ Here at QwertyCat Consulting, we want to do the best work for the best clients. 
 <ul>
   <li>
     <a class="about-item" href="http://erictgraham.com">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/eric.png">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/eric.svg">
       <br>Eric Graham</a>
       <br> CEO & Producer
   </li>
