@@ -6,11 +6,16 @@ menu = "main"
 weight = "2"
 +++
 
-You're safe! We had feared the worst. When we heard about Alderaan, we were afraid that you were... We don't have time for our sorrows, Commander. The battle station has surely tracked us here. It's the only explanation for the ease of our escape. You must use the information in this R2 unit to plan the attack. It is our only hope. Yes. We are approaching the planet Yavin. The Rebel base is on a moon on the far side. We are preparing to orbit the planet.
+Coming from a diverse array of backgrounds, we met at The University of Texas at Austin’s iSchool. Working together through coursework and extracurricular academic projects, we decided to form QwertyCat Consulting to have a greater impact beyond the four walls of our school. Our roster includes former teachers, artists, writers, and designers.
 
-Your friend is quite a mercenary. I wonder if he really cares about anything...or anyone. I care! So...what do you think of her, Han? I'm trying not to, kid! Good... Still, she's got a lot of spirit. I don't know, what do you think? Do you think a princess and a guy like me... No!
+### Our Mission
 
-General Kenobi, years ago you served my father in the Clone Wars. Now he begs you to help him in his struggle against the Empire. I regret that I am unable to present my father's request to you in person, but my ship has fallen under attack and I'm afraid my mission to bring you to Alderaan has failed. I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit. My father will know how to retrieve it. You must see this droid safely delivered to him on Alderaan. This is our most desperate hour. Help me, Obi-Wan Kenobi, you're my only hope.
+QwertyCat Consulting is an energetic, diversely talented group of people who want to help our clients attain their greatest potential through quality content and a commitment to teamwork and high impact deliverables.
+
+### Our Vision
+
+Here at QwertyCat Consulting, we want to do the best work for the best clients. At the end of the day, we want to feel proud of the work that we do for our clients and we want our clients to be even prouder.
+
 <ul>
   <li>
     <a class="about-item" href="http://erictgraham.com">
