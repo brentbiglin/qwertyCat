@@ -19,36 +19,36 @@ Here at QwertyCat Consulting, we want to do the best work for the best clients. 
 <ul>
   <li>
     <a class="about-item" href="http://biglin.io">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/brent.png">
+      <img class="profile" src="/images/brent.png">
       <br>Brent Biglin</a>
       <br>Designer & Developer
   </li>
   <li>
     <a class="about-item" href="http://sites.utexas.edu/elizabethreadsandwrites/">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/elizabeth.png">
+      <img class="profile" src="/images/elizabeth.png">
       <br>Elizabeth Fletcher</a>
       <br>Content Strategist
   </li>
   <li>
     <a class="about-item" href="http://kathrynegolden.com">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/kate.png">
+      <img class="profile" src="/images/kate.png">
       <br>Kathryn Golden</a>
       <br>UX & Market Researcher
   </li>
   <li>
     <a class="about-item" href="http://erictgraham.com">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/eric.png">
+      <img class="profile" src="/images/eric.png">
       <br>Eric Graham</a>
       <br> CEO & Producer
   </li>
   <li>
-      <img class="profile" src="http://brentbiglin.github.io/public/images/kristen.png">
+      <img class="profile" src="/images/kristen.png">
       <br>Kristen Graham</a>
       <br>Graphic & Brand Designer
   </li>
   <li>
     <a class="about-item" href="http://mollykmcgee.com">
-      <img class="profile" src="http://brentbiglin.github.io/public/images/molly.png">
+      <img class="profile" src="/images/molly.png">
       <br>Molly McGee</a>
       <br>Project & Account Manager
   </li>
