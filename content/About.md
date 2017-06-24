@@ -43,7 +43,7 @@ Here at QwertyCat Consulting, we want to do the best work for the best clients. 
   </li>
   <li>
     <a class="about-item" href="http://kristengraham.com">
-      <img class="profile" src="https://icon.now.sh/tag_faces/64/54AC58">
+      <img class="profile" src="http://brentbiglin.github.io/public/images/kristen.png">
       <br>Kristen Graham</a>
       <br>Graphic & Brand Designer
   </li>
