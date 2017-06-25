@@ -18,6 +18,18 @@ Here at QwertyCat Consulting, we want to do the best work for the best clients. 
 
 <ul>
   <li>
+    <a class="about-item" href="http://erictgraham.com">
+      <img class="profile" src="/images/eric.png">
+      <br>Eric Graham</a>
+      <br> CEO & Producer
+  </li>
+  <li>
+    <a class="about-item" href="http://mollykmcgee.com">
+      <img class="profile" src="/images/molly.png">
+      <br>Molly McGee</a>
+      <br>Project & Account Manager
+  </li>
+  <li>
     <a class="about-item" href="http://biglin.io">
       <img class="profile" src="/images/brent.png">
       <br>Brent Biglin</a>
@@ -36,20 +48,8 @@ Here at QwertyCat Consulting, we want to do the best work for the best clients. 
       <br>UX & Market Researcher
   </li>
   <li>
-    <a class="about-item" href="http://erictgraham.com">
-      <img class="profile" src="/images/eric.png">
-      <br>Eric Graham</a>
-      <br> CEO & Producer
-  </li>
-  <li>
       <img class="profile" src="/images/kristen.png">
       <br>Kristen Graham</a>
       <br>Graphic & Brand Designer
-  </li>
-  <li>
-    <a class="about-item" href="http://mollykmcgee.com">
-      <img class="profile" src="/images/molly.png">
-      <br>Molly McGee</a>
-      <br>Project & Account Manager
   </li>
 </ul>
